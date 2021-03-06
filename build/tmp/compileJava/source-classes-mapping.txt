@@ -12,3 +12,9 @@ queue/ExemploLinkedList.java
  queue.ExemploLinkedList
 set/ExemploHashSet.java
  set.ExemploHashSet
+comparators/EstudanteOrdemIdadeReversaComparator.java
+ comparators.EstudanteOrdemIdadeReversaComparator
+comparators/Estudante.java
+ comparators.Estudante
+comparators/ComparatorsExemploList.java
+ comparators.ComparatorsExemploList
