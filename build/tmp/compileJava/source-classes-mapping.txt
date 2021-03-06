@@ -1,8 +1,14 @@
 listas/ExercicioArrayList.java
  listas.ExercicioArrayList
+set/ExemploLinkedHashSet.java
+ set.ExemploLinkedHashSet
 listas/ExemplosArrayList.java
  listas.ExemplosArrayList
+set/ExemploTreeSet.java
+ set.ExemploTreeSet
 listas/ExemploVector.java
  listas.ExemploVector
 queue/ExemploLinkedList.java
  queue.ExemploLinkedList
+set/ExemploHashSet.java
+ set.ExemploHashSet
