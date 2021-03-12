@@ -18,3 +18,9 @@ comparators/Estudante.java
  comparators.Estudante
 comparators/ComparatorsExemploList.java
  comparators.ComparatorsExemploList
+optionals/ExemploOpcionalEstadosNovo.java
+ optionals.ExemploOpcionalEstadosNovo
+optionals/ExemploOptionalPrimitivos.java
+ optionals.ExemploOptionalPrimitivos
+optionals/ExemploOptional.java
+ optionals.ExemploOptional
