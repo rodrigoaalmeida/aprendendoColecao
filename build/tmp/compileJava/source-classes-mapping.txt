@@ -1,9 +1,15 @@
+comparators/ComparatorsExemploList.java
+ comparators.ComparatorsExemploList
+optionals/ExemploOptionalPrimitivos.java
+ optionals.ExemploOptionalPrimitivos
+comparators/Estudante.java
+ comparators.Estudante
+optionals/ExemploOptional.java
+ optionals.ExemploOptional
 listas/ExercicioArrayList.java
  listas.ExercicioArrayList
 set/ExemploLinkedHashSet.java
  set.ExemploLinkedHashSet
-listas/ExemplosArrayList.java
- listas.ExemplosArrayList
 set/ExemploTreeSet.java
  set.ExemploTreeSet
 listas/ExemploVector.java
@@ -14,13 +20,9 @@ set/ExemploHashSet.java
  set.ExemploHashSet
 comparators/EstudanteOrdemIdadeReversaComparator.java
  comparators.EstudanteOrdemIdadeReversaComparator
-comparators/Estudante.java
- comparators.Estudante
-comparators/ComparatorsExemploList.java
- comparators.ComparatorsExemploList
+listas/ExemplosArrayList.java
+ listas.ExemplosArrayList
 optionals/ExemploOpcionalEstadosNovo.java
  optionals.ExemploOpcionalEstadosNovo
-optionals/ExemploOptionalPrimitivos.java
- optionals.ExemploOptionalPrimitivos
-optionals/ExemploOptional.java
- optionals.ExemploOptional
+stream/ExemploStreamAPI.java
+ stream.ExemploStreamAPI
